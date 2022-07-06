@@ -1,4 +1,4 @@
-# 𝐍 𝐄 𝐗 𝐔 𝐒
+# ASO
 Söz oyunu. 7000-dən çox söz ilə
 
 # Qurulum
