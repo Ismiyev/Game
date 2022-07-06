@@ -5,7 +5,7 @@ Söz oyunu. 7000-dən çox söz ilə
 
 # Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aliyevdii/Nexua_Game)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ismiyev/Game)
 
 
 # Server
@@ -13,7 +13,7 @@ Söz oyunu. 7000-dən çox söz ilə
 Əvvəlcə `settings.py` faylında `TOKEN` qarşısına öz Bot Token yazın. Server'da Python (3+) və pip qurulu olmalıdı
 
 1
-`git clone https://github.com/Aliyevdii/Nexua_Game`
+`git clone https://github.com/Ismiyev/Game`
 
 2
 `pip3 install -r requirements.txt`
